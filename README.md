@@ -1,4 +1,4 @@
-# c-sharp-9.0-new-features
+# C# 9.0 New Features
 An application created to demonstrate some new features in version 9.0 of the C# programming language
 
 * Improved Pattern Matching
